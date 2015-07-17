@@ -2,8 +2,8 @@
 <addon id="resource.images.moviegenreicons.transparent" name="Movie Genre Icons - Transparent" version="0.0.1" provider-name="Team Kodi">
 	<extension point="kodi.resource.images" type="moviegenreicons" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">"Movie Genre Icons</summary>
-		<description lang="en">"Movie Genre Icons</description>
+		<summary lang="en">Transparent Movie Genre Icons</summary>
+		<description lang="en">Movie Genre Icons with a transparent background</description>
 		<platform>all</platform>
 	</extension>
 </addon>
